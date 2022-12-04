@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/guerrilla/static/css/main.bdb23fb2.css",
+    "main.js": "/guerrilla/static/js/main.8939910d.js",
+    "static/js/787.f8db5ccc.chunk.js": "/guerrilla/static/js/787.f8db5ccc.chunk.js",
+    "static/media/hero-house.png": "/guerrilla/static/media/hero-house.e3024a60acee176816b1.png",
+    "static/media/testimonial.png": "/guerrilla/static/media/testimonial.d5bda7d3544eedc11563.png",
+    "index.html": "/guerrilla/index.html",
+    "main.bdb23fb2.css.map": "/guerrilla/static/css/main.bdb23fb2.css.map",
+    "main.8939910d.js.map": "/guerrilla/static/js/main.8939910d.js.map",
+    "787.f8db5ccc.chunk.js.map": "/guerrilla/static/js/787.f8db5ccc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdb23fb2.css",
+    "static/js/main.8939910d.js"
+  ]
+}
