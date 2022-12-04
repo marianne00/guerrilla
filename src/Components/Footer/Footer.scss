@@ -1,0 +1,36 @@
+.section-footer {
+  padding: 100px 0 20px;
+
+  color: #BDBDBD;
+  font-size: 14px;
+  line-height: 18px;
+  
+  background-color: #1E3240;
+}
+
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.footer-brand-link {
+  color: #BDBDBD;
+  text-decoration: none;
+}
+
+.list-item {
+  margin-bottom: 12px;
+
+  img {
+    margin-right: 10px;
+  }
+}
+
+.copyright-text {
+  flex: 0 0 100%;
+  margin-top: 80px;
+  
+  font-size: 12px;
+  line-height: 15px;
+}

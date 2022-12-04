@@ -1,0 +1,65 @@
+.property-card {
+  position: relative;
+
+  margin-right: 30px;
+  margin-bottom: 100px;
+  max-width: 350px;
+
+  color: #1e3240;
+
+  &:nth-child(3n) {
+    margin-right: 0;
+  }
+}
+
+.property-image {
+  max-width: 100%;
+}
+
+.property-title {
+  margin-bottom: 6px;
+
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 120%;
+}
+
+.property-address {
+  display: flex;
+  align-items: center;
+}
+
+.property-pin {
+  margin-right: 7px;
+  max-width: 12px;
+  max-height: 12px;
+}
+
+.property-description  {
+  position: absolute;
+  right: 0;
+  bottom: -80px;
+  left: 0;
+
+  padding: 20px;
+  max-width: 250px;
+  margin-left: auto;
+  margin-right: auto;
+
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 120%;
+
+  background-color: #fff;
+}
+
+.page-filters {
+  display: block;
+  margin: 50px 0px 20px auto;
+  border: none;
+}
+
+.page-filters option {
+  font-size: 14px;
+  border: none;
+}
